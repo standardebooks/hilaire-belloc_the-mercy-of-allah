@@ -68,10 +68,10 @@
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Josep Cols Canals</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Canals, Josep Cols</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Ramon Pajares</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Pajares, Ramon</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
