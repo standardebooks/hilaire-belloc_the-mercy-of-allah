@@ -46,15 +46,16 @@
 		<meta property="term" refines="#subject-5">sh2008107185</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A satire on the adventures of entrepreneurial businessman Mahmoud, as he relates to his nephews how he became the wealthiest man in Baghdad.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Mercy of Allah is a humorous and satirical novel on the methods by which a man, the merchant Mahmoud, rises from humble beginnings to massive wealth. The setting in a fictionalized Middle East provides deeply Catholic author &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; a ‘far-off land’ in which to attack what he saw as the rapacious nature of the British businessmen, industrialists, and bankers of his day. Each episode of Mahmoud’s life satirizes greed, from small frauds and outright theft, to market manipulation, money-printing, and funding both sides in a long war. Mahmoud justifies all his dealings as simply the way things are: “For Allah, in his inscrutable choice, frowns on some and smiles on others. The first he condemns to contempt, anxiety, duns, bills, courts of law, sudden changes of residence and even dungeons; the second he gratifies with luxurious vehicles, delicious sherbet and enormous houses, such as mine.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47860</dc:source>
 		<dc:source>https://archive.org/details/allah00belluoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">se typogrify changes no-break hyphens in a word stretched out for effect. se modernize-spelling incorrectly changes Bab-El-… to Babel-… </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hilaire-belloc_the-mercy-of-allah</meta>
