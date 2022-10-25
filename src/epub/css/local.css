@@ -29,8 +29,3 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
-
-/* Arabic script chapter headers */
-header > p{
-	font-size: 1.5em;
-}
