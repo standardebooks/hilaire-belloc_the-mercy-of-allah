@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/hilaire-belloc/the-mercy-of-allah</dc:identifier>
 		<dc:date>2022-10-25T21:01:52Z</dc:date>
@@ -50,12 +50,12 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An entrepreneurial businessman satirically relates to his nephews how he became the wealthiest man in Baghdad.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Mercy of Allah&lt;/i&gt; is a humorous, satirical novel on the methods by which the merchant Mahmoud rises from humble beginnings to massive wealth. The setting in a fictionalized Middle East provides deeply Catholic author &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; a “far-off land” in which to attack what he saw as the rapacious nature of the British businessmen, industrialists, and bankers of his day.&lt;/p&gt;
 			&lt;p&gt;Each episode of Mahmoud’s life satirizes greed, from small frauds and outright theft, to market manipulation, money-printing, and funding both sides in a long war. Mahmoud justifies all his dealings as simply the way things are: “For Allah, in his inscrutable choice, frowns on some and smiles on others. The first he condemns to contempt, anxiety, duns, bills, courts of law, sudden changes of residence and even dungeons; the second he gratifies with luxurious vehicles, delicious sherbet and enormous houses, such as mine.”&lt;/p&gt;
 			&lt;p&gt;First published in 1922, this satire fits into Hilaire Belloc’s growing advocacy for the economic and social philosophy of “distributism.” It was selected as one of four books by Belloc for &lt;a href="https://standardebooks.org/ebooks/arnold-bennett"&gt;Arnold Bennett&lt;/a&gt; and Frank Swinnerton’s influential &lt;i&gt;Literary Taste: How to Form It&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47860</dc:source>
 		<dc:source>https://archive.org/details/allah00belluoft</dc:source>
